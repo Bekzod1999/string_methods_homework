@@ -7,4 +7,7 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s.isalpha()
+
+x=main('bekzod')
+print(x)
