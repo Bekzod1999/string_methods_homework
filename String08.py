@@ -7,4 +7,7 @@ def main(s):
         bool: answer
     """
     
-    return
+    return s.isupper()
+
+x=main('Bekzod')
+print(x)
