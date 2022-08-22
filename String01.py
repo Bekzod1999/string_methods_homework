@@ -7,4 +7,8 @@ def main(s):
         str: answer
     """
     
-    return
+    
+    return s.title()
+
+x=main('bekzod muhammadiyev')
+print(x)
