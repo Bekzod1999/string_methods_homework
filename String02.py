@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s.upper()
+x=main('bekzod muhammmadiyev')
+print(x)
