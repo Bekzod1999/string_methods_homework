@@ -7,4 +7,6 @@ def main(s):
         str: answer
     """
     
-    return
+    return s.index('x')
+x=main('iphone x is a mxobile')
+print(x)
